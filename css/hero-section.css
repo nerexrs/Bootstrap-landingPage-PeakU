@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.hero-section{
+    background-color: #FEFCFB;
+
+
+}
+#button:hover{
+    color:black;
+   
+   
+}
+#button{
+    color: #FA7436;
+    border-radius: 10%;
+    width: 14rem;
+    height:2rem ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+
+#button2{
+    background-color: #FA7436;
+    width: 14rem;
+    height:2rem ;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    border-radius:5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#button2:hover{
+    background-color: rgb(245, 196, 162);
+    color:#FA7436;
+}
+.mibutton{
+    border-color: #FA7436;
+    padding: 5rem;
+    margin: 2rem 2rem 2rem 2rem;
+    justify-content: left;
+}
+
+.mibutton:hover{
+  background: #FA7436;
+  text-decoration-color: white;
+  
+}
+#text-btn {
+    color: #FA7436;
+}
+#text-btn:hover {
+    color: white;
+}
+
+.button-discover:hover{
+    background: #FA7436;
+  border: none;
+  color: white;
+  text-decoration-color: white;
+}
+
+.img{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin: 50px;
+    align-items: flex-end;
+    transform: translate(-120%,-70%);
+    width: 450px;
+    height: 530px;
+  
+}
+
+img1{
+    position: absolute;
+}
+
+
+#nav{
+    justify-content: space-between;
+    display: inline-flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif bold;
+   
+}
+/* 
+.desplegable{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+ 
+ 
+
+} */
+/* table {
+    border: none;
+    background: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 2%;
+    margin: 0 0 0 10rem;
+    
+} */
+td{
+    padding: 2rem;
+    
+}
+
+h5{
+    flex-direction: row;
+    display: flexbox;
+    justify-content: flex-end;
+
+}
+#content{
+    margin: 3rem 3rem 3rem 0;
+    justify-content: left;
+    text-align: left;
+}
+
+#text{
+    text-align: left;
+    margin: 50px;
+    padding: 50px;
+
+}
+#text2{
+    margin: 3rem 3rem 3rem 0;
+    justify-content: left;
+    text-align: left;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    
+    
+}
